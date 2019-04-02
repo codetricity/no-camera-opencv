@@ -44,6 +44,13 @@ to disk.
 
 In `Android.mk` set your include path.
 
+To see the `Android.mk` file, go to the 
+"Project Files" view of Android Studio.  The
+default view is "Android".  You need to access
+Project Files from the drop-down menu.
+
+![android.mk](images/androidmk.png)
+
 ![include path](images/includepath.png)
 
 ## Screenshots
