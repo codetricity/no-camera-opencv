@@ -55,3 +55,14 @@ Emulator
 ![process image](images/process.png)
 
 ![processed image](images/processed-image.png)
+
+## Changes
+
+2019/4/2
+
+* added OpenCV 3.4.5 source to repo
+* added directions to edit include path
+* fixed problem with screen message for status of permissions
+* added library version information to README
+* added screenshots to README
+* added release folder for the completed apk
