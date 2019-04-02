@@ -1,3 +1,1 @@
 process_begin: CreateProcess(NULL, "", ...) failed.
-C:\Users\craigdev\Development\no-camera-opencv\app\jni\Android.mk:7: /home/craig/Development/ricoh/plugin/opencv-3.4.5-android-sdk/OpenCV-android-sdk/sdk/native/jni/OpenCV.mk: No such file or directory
-make: *** No rule to make target `/home/craig/Development/ricoh/plugin/opencv-3.4.5-android-sdk/OpenCV-android-sdk/sdk/native/jni/OpenCV.mk'.  Stop.

@@ -1,0 +1,14 @@
+Executable : C:\Users\craigdev\AppData\Local\Android\Sdk\ndk-bundle\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=C:\Users\craigdev\Development\no-camera-opencv\app\jni\Android.mk
+NDK_APPLICATION_MK=C:\Users\craigdev\Development\no-camera-opencv\app\jni\Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=1
+APP_PLATFORM=android-24
+NDK_OUT=C:/Users/craigdev/Development/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=C:\Users\craigdev\Development\no-camera-opencv\app\build\intermediates\ndkBuild\debug\lib
+C:/Users/craigdev/Development/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj/local/x86/libopencvsample.so
+jvmArgs : 
+
