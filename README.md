@@ -25,6 +25,8 @@ display an image processed with OpenCV to the emulator screen.
 * Press the shutter button to take a picture
 * After 4 seconds, press the Wi-Fi button to process the picture
 
+![real camera](images/camera.png)
+
 You can see the processed image in Vysor. This demo does not
 save the processed image to disk.
 
