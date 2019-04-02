@@ -51,6 +51,10 @@ Project Files from the drop-down menu.
 
 ![android.mk](images/androidmk.png)
 
+Edit the path in the screenshot below to match the path
+of your local OpenCV source code (which is part of this
+repo).
+
 ![include path](images/includepath.png)
 
 ## Screenshots
