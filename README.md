@@ -4,8 +4,8 @@ device RICOH THETA V and an Android Video Device.  You
 can develop a plug-in on the emulator and then have it run
 on a physical device camera with only minor modifications.
 
-Originally posted by roohii_3.
-Modified by https://github.com/iamagod (kasper on theta360.guide)
+Based on original work by roohii_3 with
+modifications by https://github.com/iamagod (kasper on theta360.guide)
 
 ## Important Note on App Permissions
 
