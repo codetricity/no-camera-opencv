@@ -299,6 +299,7 @@ public class MainActivity extends AppCompatActivity {
                 (ContextCompat.checkSelfPermission(this,
                         Manifest.permission.READ_EXTERNAL_STORAGE) ==
                         PackageManager.PERMISSION_GRANTED)) {
+            statusTextView.setText("Ready");
             Toast.makeText(this, "storage permission good", Toast.LENGTH_SHORT).show();
         } else {
             Toast.makeText(this, "WARNING: Need to enable storage permission",

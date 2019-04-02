@@ -31,3 +31,27 @@ save the processed image to disk.
 The [no-camera-template](https://github.com/codetricity/no-camera-template)
  shows how to save the processed file
 to disk.
+
+## Build
+
+
+* JRE 1.8.0
+* Android Studio 3.3.2
+* Gradle 4.10.1
+* OpenCV 3.4.5
+* in gradle.build (app) specify `sourceCompatibility` and `targetCompatibility` as 1.8 due to use of lambda
+
+
+In `Android.mk` set your include path.
+
+![include path](images/includepath.png)
+
+## Screenshots
+
+Emulator
+
+![first screen](images/first-screen.png)
+
+![process image](images/process.png)
+
+![processed image](images/processed-image.png)
