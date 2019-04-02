@@ -67,6 +67,10 @@ Emulator
 
 ![processed image](images/processed-image.png)
 
+### flipped from challenge
+
+![flipped](images/flipped.png)
+
 ## Changes
 
 2019/4/2
