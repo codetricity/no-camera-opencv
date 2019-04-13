@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
 
     // native functions
     public native String version();
-    public native byte[] rgba2bgra(int width, int height, byte[] src);
+    public native byte[] bilateral(int width, int height, byte[] src);
 
     private void processImage(String thetaPicturePath) {
 
@@ -154,7 +154,7 @@ public class MainActivity extends AppCompatActivity {
         img.copyPixelsToBuffer(byteBuffer);
 
         // call the process from the native library
-        byte[] dst = rgba2bgra(img.getWidth(), img.getHeight(), byteBuffer.array());
+        byte[] dst = bilateral(img.getWidth(), img.getHeight(), byteBuffer.array());
 
         // set the output image on an ImageView
         Bitmap bmp = Bitmap.createBitmap(img.getWidth(), img.getHeight(), Bitmap.Config.ARGB_8888);

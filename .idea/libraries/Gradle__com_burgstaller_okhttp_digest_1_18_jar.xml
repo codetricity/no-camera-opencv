@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.burgstaller:okhttp-digest:1.18@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.burgstaller/okhttp-digest/1.18/5b99619cf62c5129a3d111db7b05649344843189/okhttp-digest-1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.burgstaller/okhttp-digest/1.18/c2eb1194a093ad201f9362d14146a09dbec79c91/okhttp-digest-1.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

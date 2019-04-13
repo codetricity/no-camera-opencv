@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.theta4j:theta-web-api:1.2.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.theta4j/theta-web-api/1.2.2/a1a74cdd3b74bfe06c67478d4e68ac6592b70a4a/theta-web-api-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.theta4j/theta-web-api/1.2.2/9cd8f1019b5ff5bb94614810e982db791e15500e/theta-web-api-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

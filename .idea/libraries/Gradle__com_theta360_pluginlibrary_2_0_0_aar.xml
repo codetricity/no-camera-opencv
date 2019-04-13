@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.theta360:pluginlibrary:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pluginlibrary-2.0.0.aar/dc007ccac758eadfe7a1bfda17f23b1b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pluginlibrary-2.0.0.aar/dc007ccac758eadfe7a1bfda17f23b1b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,17 +1,17 @@
 {
   "buildFiles": [
-    "C:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\jni\\Android.mk",
-    "C:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\jni\\Application.mk"
+    "D:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\jni\\Android.mk",
+    "D:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\jni\\Application.mk"
   ],
   "cleanCommands": [
-    "C:\\Users\\craigdev\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dC:/Users/craigdev/Development/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+    "D:\\Users\\Maximus\\AppData\\Local\\AS\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dD:/Users/Maximus/Documents/GitHub/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
   ],
   "libraries": {
     "opencvsample-debug-x86": {
       "artifactName": "opencvsample",
-      "buildCommand": "C:\\Users\\craigdev\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dC:/Users/craigdev/Development/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/Users/craigdev/Development/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj/local/x86/libopencvsample.so",
+      "buildCommand": "D:\\Users\\Maximus\\AppData\\Local\\AS\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003dD:/Users/Maximus/Documents/GitHub/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\build\\intermediates\\ndkBuild\\debug\\lib D:/Users/Maximus/Documents/GitHub/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj/local/x86/libopencvsample.so",
       "abi": "x86",
-      "output": "C:\\Users\\craigdev\\Development\\no-camera-opencv\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libopencvsample.so"
+      "output": "D:\\Users\\Maximus\\Documents\\GitHub\\no-camera-opencv\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libopencvsample.so"
     }
   }
 }
