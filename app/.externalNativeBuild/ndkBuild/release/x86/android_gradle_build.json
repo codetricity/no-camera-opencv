@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Android.mk",
+    "/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/craig/Android/24.4.1/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "opencvsample-release-x86": {
+      "buildCommand": "/home/craig/Android/24.4.1/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/lib /home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj/local/x86/libopencvsample.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "opencvsample",
+      "files": [
+        {
+          "src": "/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/sample.cpp",
+          "flags": "-target i686-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /home/craig/Android/24.4.1/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -fno-addrsig -fno-exceptions -fno-rtti -fPIC -O2 -DNDEBUG -I\"/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/OpenCV-android-sdk/sdk/native/jni/include/opencv\" -I\"/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/OpenCV-android-sdk/sdk/native/jni/include\" -I/home/craig/Android/24.4.1/ndk-bundle/sources/cxx-stl/llvm-libc++/include -I/home/craig/Android/24.4.1/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -I/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni -std\u003dc++11 -frtti -fexceptions -DANDROID -fPIC -DANDROID -fsigned-char -nostdinc++ -Wa,--noexecstack -Wformat -Werror\u003dformat-security"
+        }
+      ],
+      "output": "/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj/local/x86/libopencvsample.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cppCompilerExecutable": "/home/craig/Android/24.4.1/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

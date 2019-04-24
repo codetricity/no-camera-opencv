@@ -1,0 +1,17 @@
+Executable : /home/craig/Android/24.4.1/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Android.mk
+NDK_APPLICATION_MK=/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=0
+APP_PLATFORM=android-24
+NDK_OUT=/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

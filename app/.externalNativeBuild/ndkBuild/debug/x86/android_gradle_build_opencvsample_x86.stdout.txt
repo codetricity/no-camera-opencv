@@ -1,2 +1,1 @@
-[x86] Compile++      : opencvsample <= sample.cpp
-[x86] SharedLibrary  : libopencvsample.so
+make: `/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/debug/obj/local/x86/libopencvsample.so' is up to date.

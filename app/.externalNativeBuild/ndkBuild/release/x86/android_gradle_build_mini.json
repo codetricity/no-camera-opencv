@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Android.mk",
+    "/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/craig/Android/24.4.1/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "opencvsample-release-x86": {
+      "artifactName": "opencvsample",
+      "buildCommand": "/home/craig/Android/24.4.1/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Android.mk NDK_APPLICATION_MK\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-24 NDK_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/lib /home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj/local/x86/libopencvsample.so",
+      "abi": "x86",
+      "output": "/home/craig/Development/ricoh/plugin/contest/no-camera-opencv/app/build/intermediates/ndkBuild/release/obj/local/x86/libopencvsample.so"
+    }
+  }
+}
