@@ -1,6 +1,6 @@
 # No-Camera OpenCV
 Sample application that shows OpenCV running on both a physical 
-device RICOH THETA V and an Android Video Device.  You
+device RICOH THETA V and an Android Virtual Device.  You
 can develop a plug-in on the emulator and then have it run
 on a physical device camera with only minor modifications.
 
